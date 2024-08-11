@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### my java-course projects:
+
+[explore-with-me](https://github.com/unstablecookie/java-explore-with-me)
+
+[shareit](https://github.com/unstablecookie/java-shareit)
+
+[filmorate](https://github.com/unstablecookie/java-filmorate)
+
+
 <!--
 **unstablecookie/unstablecookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
