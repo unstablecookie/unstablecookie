@@ -14,11 +14,13 @@
 https://github.com/unstablecookie/emojicon-work-rev-2
 
 ### sandbox
+**http file copy**
 Once a colleague asked me "how we can transfer a file from server to another server and be sure that all data was fully copied" and bragged about the sequential file copy process being too slow.
 In response i wrote a simple client - server application over the weekend. Applications use minimal image footprint and basically respond to these questions.
 You can copy files over http, with error report.
 Sender and client work with 4 threads simultaneously.
 https://github.com/unstablecookie/SimpleClient
+
 https://github.com/unstablecookie/SimpleServer
 
 <!--
