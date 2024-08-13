@@ -10,6 +10,7 @@
 
 
 ## pet projects
+
 -**http file copy**
 
   Once a colleague asked me "how we can transfer a file from server to another server and be sure that all data was fully copied" and bragged about the sequential file copy process being too slow.
@@ -20,13 +21,24 @@
   
   https://github.com/unstablecookie/SimpleServer
 
+
 -**telegram bot, will greet users with random wishes**
 
   Bot will store added users and wishes as POJO in local file (i should use plaintext tho), and greet them on their birthday.
   https://github.com/unstablecookie/cakebakebot
 
+-**GUI property manager based on SWING**
+
+  Stores users with their property in the database.
+  
+  https://github.com/unstablecookie/ApartmentManagerSwingJPA
+
 ### my forks
-**Added sound and sound controls**. So if you are a big fan of emojicon, you can now enjoy it with music.
+
+**Added sound and sound controls**
+
+So if you are a big fan of emojicon, you can now enjoy it with music.
+
 https://github.com/unstablecookie/emojicon-work-rev-2
 
 
