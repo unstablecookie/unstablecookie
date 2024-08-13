@@ -11,6 +11,7 @@
 
 ## pet projects
 -**http file copy**
+
   Once a colleague asked me "how we can transfer a file from server to another server and be sure that all data was fully copied" and bragged about the sequential file copy process being too slow.
   In response i wrote a simple client - server application over the weekend. Applications use minimal image footprint and basically respond to these questions.
   You can copy files over http, with error report.
@@ -20,6 +21,7 @@
   https://github.com/unstablecookie/SimpleServer
 
 -**telegram bot, will greet users with random wishes**
+
   Bot will store added users and wishes as POJO in local file (i should use plaintext tho), and greet them on their birthday.
   https://github.com/unstablecookie/cakebakebot
 
