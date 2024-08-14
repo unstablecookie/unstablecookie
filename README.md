@@ -56,6 +56,8 @@
 
 ### c++ random battler
 
+  Tiny console game. For now.
+
   [random battler](https://github.com/unstablecookie/randombattler)
 
 
