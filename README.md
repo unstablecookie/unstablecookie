@@ -11,7 +11,7 @@
 
 ## pet projects
 
-###http file copy
+### http file copy
 
   Once a colleague asked me "how we can transfer a file from server to another server and be sure that all data was fully copied" and bragged about the sequential file copy process being too slow.
   In response i wrote a simple client - server application over the weekend. Applications use minimal image footprint and basically respond to these questions.
@@ -23,28 +23,28 @@
   [SimpleServer](https://github.com/unstablecookie/SimpleServer)
 
 
-###telegram bot, will greet users with random wishes
+### telegram bot, will greet users with random wishes
 
   Bot will store added users and wishes as POJO in local file (i should use plaintext tho), and greet them on their birthday.
   
   [cakebakebot](https://github.com/unstablecookie/cakebakebot)
 
 
-###GUI property manager based on SWING
+### GUI property manager based on SWING
 
   Stores users with their property in the database.
   
   [Apartment Manager Swing JPA](https://github.com/unstablecookie/ApartmentManagerSwingJPA)
 
 
-###React App for my apartment manager project rework
+### React App for my apartment manager project rework
 
   [published app in github-pages](https://unstablecookie.github.io/basichouseplanner/)
   
   [source code](https://github.com/unstablecookie/basichouseplanner)
 
 
-###apartment manager with Spring (JPA)
+### apartment manager with Spring (JPA)
 
   Web-based apartment manager. (Based on : Spring 4, JPA, Postgresql, Thymeleaf templates and in-memory authentication)
   I did it in my early days of study. Going to rework it with a React-based front. 
@@ -55,7 +55,7 @@
 
 ## my forks
 
-###Emojicon with sound and sound controls
+### Emojicon with sound and sound controls
 
 So if you are a big fan of emojicon, you can now enjoy it with music.
 
