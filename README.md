@@ -11,35 +11,48 @@
 
 ## pet projects
 
--**http file copy**
+**http file copy**
 
   Once a colleague asked me "how we can transfer a file from server to another server and be sure that all data was fully copied" and bragged about the sequential file copy process being too slow.
   In response i wrote a simple client - server application over the weekend. Applications use minimal image footprint and basically respond to these questions.
   You can copy files over http, with error report.
   Sender and client work with 4 threads simultaneously.
-  https://github.com/unstablecookie/SimpleClient
-  
-  https://github.com/unstablecookie/SimpleServer
+  [SimpleClient](https://github.com/unstablecookie/SimpleClient)
+  [SimpleServer](https://github.com/unstablecookie/SimpleServer)
 
 
--**telegram bot, will greet users with random wishes**
+**telegram bot, will greet users with random wishes**
 
   Bot will store added users and wishes as POJO in local file (i should use plaintext tho), and greet them on their birthday.
-  https://github.com/unstablecookie/cakebakebot
+  [cakebakebot](https://github.com/unstablecookie/cakebakebot)
 
--**GUI property manager based on SWING**
+
+**GUI property manager based on SWING**
 
   Stores users with their property in the database.
-  
-  https://github.com/unstablecookie/ApartmentManagerSwingJPA
+  [Apartment Manager Swing JPA](https://github.com/unstablecookie/ApartmentManagerSwingJPA)
 
-### my forks
 
-**Added sound and sound controls**
+**React App for my apartment manager project rework**
+
+  [published app in github-pages](https://unstablecookie.github.io/basichouseplanner/)
+  [source code](https://github.com/unstablecookie/basichouseplanner)
+
+**apartment manager with Spring (JPA)**
+
+  Web-based apartment manager. (Based on : Spring 4, JPA, Postgresql, Thymeleaf templates and in-memory authentication)
+  I did it in my early days of study. Going to rework it with a React-based front. 
+  [Apartment Manager Spring](https://github.com/unstablecookie/ApartmentManagerSpring)
+
+
+## my forks
+
+**Emojicon with sound and sound controls**
 
 So if you are a big fan of emojicon, you can now enjoy it with music.
+[emojicon-work-rev-2](https://github.com/unstablecookie/emojicon-work-rev-2)
 
-https://github.com/unstablecookie/emojicon-work-rev-2
+
 
 
 <!--
