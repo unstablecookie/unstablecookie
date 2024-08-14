@@ -68,7 +68,7 @@
 
 So if you are a big fan of emojicon, you can now enjoy it with music.
 
-~Unfortunately, it can't be merged with the source as the main project is intended for educational purposes only as it is.~
+*Unfortunately, it can't be merged with the source as the main project is intended for educational purposes only as it is.*
 
 [emojicon-work-rev-2](https://github.com/unstablecookie/emojicon-work-rev-2)
 
