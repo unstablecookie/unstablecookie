@@ -45,9 +45,9 @@
 ### GUI property manager based on SWING
   [Rework in progress](https://github.com/unstablecookie/aptMgrSpringReact)
 
-  ~~Stores users with their property in the database.
+  ~~Stores users with their property in the database.~~
   
-  [Apartment Manager Swing JPA](https://github.com/unstablecookie/ApartmentManagerSwingJPA)~~
+  ~~[Apartment Manager Swing JPA](https://github.com/unstablecookie/ApartmentManagerSwingJPA)~~
 
 
 ### React App for my apartment manager project rework
@@ -59,10 +59,12 @@
 
 ### apartment manager with Spring (JPA)
   [Rework in progress](https://github.com/unstablecookie/aptMgrSpringReact)
-  ~~Web-based apartment manager. (Based on : Spring 4, JPA, Postgresql, Thymeleaf templates and in-memory authentication)
-  I did it in my early days of study. Going to rework it with a React-based front. 
   
-  [Apartment Manager Spring](https://github.com/unstablecookie/ApartmentManagerSpring)~~
+  ~~Web-based apartment manager. (Based on : Spring 4, JPA, Postgresql, Thymeleaf templates and in-memory authentication)~~
+  
+  ~~I did it in my early days of study. Going to rework it with a React-based front.~~
+  
+  ~~[Apartment Manager Spring](https://github.com/unstablecookie/ApartmentManagerSpring)~~
 
 
 ## sandbox
