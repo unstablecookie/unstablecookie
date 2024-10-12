@@ -4,8 +4,11 @@
   [This is a web application to manage property.](https://github.com/unstablecookie/aptMgrSpringReact)
   
   Tech stack:
+  
   RESTfull backend API.
+  
   Back: Spring Boot, JPA, Spring security, PostgreSQL.
+  
   Front: React.
 
 
