@@ -1,5 +1,14 @@
 ## Alexey Melnikov
 
+## Current project.
+  [This is a web application to manage property.](https://github.com/unstablecookie/aptMgrSpringReact)
+  
+  Tech stack:
+  RESTfull backend API.
+  Back: Spring Boot, JPA, Spring security, PostgreSQL.
+  Front: React.
+
+
 ## my java-course projects:
 
 [explore-with-me](https://github.com/unstablecookie/java-explore-with-me)
@@ -31,10 +40,11 @@
 
 
 ### GUI property manager based on SWING
+  [Rework in progress](https://github.com/unstablecookie/aptMgrSpringReact)
 
-  Stores users with their property in the database.
+  ~~Stores users with their property in the database.
   
-  [Apartment Manager Swing JPA](https://github.com/unstablecookie/ApartmentManagerSwingJPA)
+  [Apartment Manager Swing JPA](https://github.com/unstablecookie/ApartmentManagerSwingJPA)~~
 
 
 ### React App for my apartment manager project rework
@@ -45,18 +55,18 @@
 
 
 ### apartment manager with Spring (JPA)
-
-  Web-based apartment manager. (Based on : Spring 4, JPA, Postgresql, Thymeleaf templates and in-memory authentication)
+  [Rework in progress](https://github.com/unstablecookie/aptMgrSpringReact)
+  ~~Web-based apartment manager. (Based on : Spring 4, JPA, Postgresql, Thymeleaf templates and in-memory authentication)
   I did it in my early days of study. Going to rework it with a React-based front. 
   
-  [Apartment Manager Spring](https://github.com/unstablecookie/ApartmentManagerSpring)
+  [Apartment Manager Spring](https://github.com/unstablecookie/ApartmentManagerSpring)~~
 
 
 ## sandbox
 
 ### c++ random battler
 
-  Tiny console game. For now.
+  Tiny console game with C++ functions called by Lua script.
 
   [random battler](https://github.com/unstablecookie/randombattler)
 
